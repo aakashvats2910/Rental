@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910083977285",
+    "firebase_url": "https://rental-bae51.firebaseio.com",
+    "project_id": "rental-bae51",
+    "storage_bucket": "rental-bae51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910083977285:android:82a2164f2451d116f1332c",
+        "android_client_info": {
+          "package_name": "com.example.rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910083977285-157rabaf20nsjvs18choapk4q10l22t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rental",
+            "certificate_hash": "7f5357c430cf7584aa27ecd8e762715b212acccb"
+          }
+        },
+        {
+          "client_id": "910083977285-53vvnvea00paol5495mvg0foj85mvvj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwhMHzGkNAgVKjDFJIBdK30X0HsdvXxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910083977285-53vvnvea00paol5495mvg0foj85mvvj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         if (requestCode == RC_SIGN_IN) {
             val response = IdpResponse.fromResultIntent(data)
             if (resultCode == Activity.RESULT_OK) {
-
+                startActivity(Intent(this@MainActivity, UserInfoGatherActivity::class.java))
             } else {
 
             }

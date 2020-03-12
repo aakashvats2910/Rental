@@ -44,7 +44,7 @@ class UserInfoGatherActivity : AppCompatActivity() {
 
         next_page_button.setOnClickListener{
             if (isMale != null && first_name.text.toString().trim().isNotEmpty() && last_name.text.toString().trim().isNotEmpty()) {
-                startActivity(Intent(this@UserInfoGatherActivity, FetchListActivity::class.java))
+//                startActivity(Intent(this@UserInfoGatherActivity, FetchListActivity::class.java))
             }
         }
 

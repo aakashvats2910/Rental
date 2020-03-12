@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        startActivity(Intent(this, UserInfoGatherActivity::class.java))
+        startActivity(Intent(this@MainActivity, FetchResultActivity::class.java))
 
         Fire.Static.initializeCloud()
 
